@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          537691,
+          152608
+        ]
+      },
+      "properties": {
+        "idthing": 74517,
+        "name": "Flon",
+        "infourl": "http://www.europlex.ch",
+        "x": 537691,
+        "y": 152608,
+        "lon": 6.62661900853795,
+        "lat": 46.5218617439341
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          537957.6,
+          152183.4
+        ]
+      },
+      "properties": {
+        "idthing": 74524,
+        "name": "Les Galeries",
+        "infourl": "http://www.europlex.ch",
+        "x": 537957.6,
+        "y": 152183.4,
+        "lon": 6.63015026399044,
+        "lat": 46.5180672298995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          537746.9,
+          152837
+        ]
+      },
+      "properties": {
+        "idthing": 74549,
+        "name": "Zinéma",
+        "infourl": "http://www.zinema.ch",
+        "x": 537746.9,
+        "y": 152837,
+        "lon": 6.62731653720712,
+        "lat": 46.5239268371062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          538020.6,
+          153835.6
+        ]
+      },
+      "properties": {
+        "idthing": 74505,
+        "name": "Bellevaux",
+        "infourl": "http://www.cinemabellevaux.ch",
+        "x": 538020.6,
+        "y": 153835.6,
+        "lon": 6.63074906739909,
+        "lat": 46.5329348125874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          535805,
+          153245
+        ]
+      },
+      "properties": {
+        "idthing": 74516,
+        "name": "Cinétoile Malley Lumières",
+        "infourl": "http://www.cinetoile.ch",
+        "x": 535805,
+        "y": 153245,
+        "lon": 6.60195348736206,
+        "lat": 46.5274130376451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          538390,
+          152239
+        ]
+      },
+      "properties": {
+        "idthing": 74507,
+        "name": "Capitole",
+        "infourl": "http://www.lecapitole.ch",
+        "x": 538390,
+        "y": 152239,
+        "lon": 6.63577715500952,
+        "lat": 46.5186073760622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          537574,
+          152454
+        ]
+      },
+      "properties": {
+        "idthing": 74515,
+        "name": "Cinémathèque",
+        "infourl": "http://www.cinematheque.ch",
+        "x": 537574,
+        "y": 152454,
+        "lon": 6.62511520210974,
+        "lat": 46.5204655730654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          537640.3,
+          152024.5
+        ]
+      },
+      "properties": {
+        "idthing": 74547,
+        "name": "Moderne",
+        "infourl": null,
+        "x": 537640.3,
+        "y": 152024.5,
+        "lon": 6.62603722803405,
+        "lat": 46.5166083631339
+      }
+    }
+  ]
+}

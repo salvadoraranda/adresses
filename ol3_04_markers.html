@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <title>ol3_03 wmts multiple layers with layerswitcher</title>
+    <!-- bootstrap CDN stuff in case you need
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+-->
+    <style>
+        html, body {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            font-family: sans-serif;
+            font-size: small;
+        }
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+<div id="loader_message">
+    <p>Loading the map...<br>
+    <p>Chargement de la carte ...<br>
+        <br>
+    <p>Please be patient
+</div>
+<div id="map">
+    <noscript>You need javascript to use this page</noscript>
+</div>
+
+<!-- let's use CDN as much as we can and postpone the css loading -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.18.2/ol.js" async></script>
+<script src="lib/proj4js/2.2.2/proj4.js" async></script>
+<script src="js/goeland_ol3_wmts.js" async></script>
+<script type="text/javascript">
+    var map,marker_layer; //for debug in console only !
+    document.addEventListener('DOMContentLoaded', function () {
+        console.log('#EVENT document DOMContentLoaded : document.readyState=', document.readyState);
+    });
+    window.addEventListener('load', function () {
+        function loadScript(url, callback){
+            // Adding the script tag to the head as suggested before
+            var head = document.getElementsByTagName('head')[0];
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = url;
+
+            // Then bind the event to the callback function.
+            // There are several events for cross browser compatibility.
+            script.onreadystatechange = callback;
+            script.onload = callback;
+
+            // Fire the loading
+            head.appendChild(script);
+        }
+        var layer_switcher_init_code = function () {
+            var layerSwitcher = new ol.control.LayerSwitcher({
+                tipLabel: 'Légende' // Optional label for button
+            });
+            map.addControl(layerSwitcher);
+        };
+        console.log('#EVENT window load: document.readyState=', document.readyState);
+        document.getElementById('loader_message').style.display = 'none';
+        proj4.defs("EPSG:21781", "+proj=somerc +lat_0=46.95240555555556 +lon_0=7.439583333333333 +k_0=1 +x_0=600000 +y_0=200000 +ellps=bessel +towgs84=674.4,15.1,405.3,0,0,0,0 +units=m +no_defs");
+
+        var lon = 537892.8; //VARIABLE_X
+        var lat = 152095.7; //VARIABLE_Y
+        var zoom_level = 4; //VARIABLE_ZOOM
+        var position_Lausanne = [lon, lat];
+        map = init_map('map', position_Lausanne, zoom_level);
+        loadScript('js/ol3-layerswitcher.js',layer_switcher_init_code);
+
+
+        var createIconStyleCenterBottom = function(imagePath) {
+            return new ol.style.Style({
+                image: new ol.style.Icon({ // http://openlayers.org/en/latest/apidoc/ol.style.Icon.html
+                    src: imagePath,
+                    opacity: 0.60,
+                    anchor: [0.5, 1.0]   //we want the marker bottom to be centered
+                })
+            })
+        };
+
+        var coord_pfa3_180_stfrancois = [538224.21, 152378.17]; //PFA3 180 - St-Francois
+        var eglise_stfrancois = new ol.Feature(new ol.geom.Point(coord_pfa3_180_stfrancois));
+        eglise_stfrancois.setStyle(createIconStyleCenterBottom('images/marker_blue_32x58.png'));
+
+        var coord_poste_stfrancois = [538189, 152308]; //Poste - St-Francois
+        var poste_stfrancois = new ol.Feature(new ol.geom.Point(coord_poste_stfrancois));
+        poste_stfrancois.setStyle(createIconStyleCenterBottom('images/marker_red_32x58.png'));
+
+
+        marker_layer = new ol.layer.Vector({
+            source: new ol.source.Vector({
+                features: [eglise_stfrancois, poste_stfrancois]
+            })
+        });
+        map.addLayer(marker_layer);  // doc --> http://openlayers.org/en/latest/apidoc/ol.Map.html#addLayer
+        var current_view = map.getView();
+        // how to center map on a specific point
+        current_view.setCenter(coord_pfa3_180_stfrancois); // http://openlayers.org/en/latest/apidoc/ol.View.html#setCenter
+        current_view.setZoom(8);
+        // how to center map on the extent of all features in the layer
+        var extent = marker_layer.getSource().getExtent();
+        current_view.fit(extent, map.getSize());
+
+        // now let's add another layer with geojson data
+        var geojson_url = 'data/cinema_geojson.json';
+        var cinema_layer = new ol.layer.Vector({
+            source: new ol.source.Vector({
+                url: geojson_url,
+                format: new ol.format.GeoJSON({
+                    defaultDataProjection :'EPSG:21781',
+                    projection: 'EPSG:21781'
+
+                })
+            }),
+            style: createIconStyleCenterBottom('images/cinema.png')
+        })
+
+        map.addLayer(cinema_layer);
+
+
+
+
+
+
+    })
+</script>
+
+</body>
+</html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.18.2/ol.css">
+<link rel="stylesheet" href="css/ol3-layerswitcher.css">
+<style>
+    .ol-mouse-position {
+        top: inherit;
+        bottom: 8px;
+        right: 8px;
+        background-color: rgba(255, 255, 255, 0.75);
+        border-radius: 2px;
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+    }
+</style>

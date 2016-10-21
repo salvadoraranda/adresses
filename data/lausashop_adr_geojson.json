@@ -1,0 +1,3413 @@
+
+             {
+            "type": "FeatureCollection",
+  			"features": [
+             
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538220,
+                           152915
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157885
+		6.63346561020521
+		46.52467666706017
+	,
+        					"name": Pl. de la Riponne10,
+        					"infourl": null,
+        					"x": 538220,
+        					"y": 152915,
+        					"lon": 6.63346561020521,
+        					"lat": 46.52467666706017
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538642,
+                           153833
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157574
+		6.638842841712348
+		46.532973177094824
+	,
+        					"name": Rte du Signal27B,
+        					"infourl": null,
+        					"x": 538642,
+        					"y": 153833,
+        					"lon": 6.638842841712348,
+        					"lat": 46.532973177094824
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539631,
+                           153561
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17158728
+		6.651769159214187
+		46.530616762824344
+	,
+        					"name": Av. du Temple22,
+        					"infourl": null,
+        					"x": 539631,
+        					"y": 153561,
+        					"lon": 6.651769159214187,
+        					"lat": 46.530616762824344
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537692,
+                           152724
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17158789
+		6.626610540551079
+		46.52290962832661
+	,
+        					"name": Rue des Terreaux33,
+        					"infourl": null,
+        					"x": 537692,
+        					"y": 152724,
+        					"lon": 6.626610540551079,
+        					"lat": 46.52290962832661
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538106,
+                           152683
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150105
+		6.632011113414267
+		46.522579256791836
+	,
+        					"name": Pl. Marc-Louis-Arlaud1,
+        					"infourl": null,
+        					"x": 538106,
+        					"y": 152683,
+        					"lon": 6.632011113414267,
+        					"lat": 46.522579256791836
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539167,
+                           152750
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		15381546
+		6.645828698717928
+		46.523279480463636
+	,
+        					"name": Av. de Beaumont4,
+        					"infourl": null,
+        					"x": 539167,
+        					"y": 152750,
+        					"lon": 6.645828698717928,
+        					"lat": 46.523279480463636
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539162,
+                           152765
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		15381547
+		6.64576156009524
+		46.5234139512392
+	,
+        					"name": Av. de Beaumont6,
+        					"infourl": null,
+        					"x": 539162,
+        					"y": 152765,
+        					"lon": 6.64576156009524,
+        					"lat": 46.5234139512392
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539164,
+                           152780
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		15381548
+		6.645785643648577
+		46.52354906093056
+	,
+        					"name": Av. de Beaumont8,
+        					"infourl": null,
+        					"x": 539164,
+        					"y": 152780,
+        					"lon": 6.645785643648577,
+        					"lat": 46.52354906093056
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           535156,
+                           152959
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151538
+		6.593529544871794
+		46.524782510366435
+	,
+        					"name": Av. du Chablais46,
+        					"infourl": null,
+        					"x": 535156,
+        					"y": 152959,
+        					"lon": 6.593529544871794,
+        					"lat": 46.524782510366435
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538009,
+                           153127
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152289
+		6.630687337140186
+		46.52656415679699
+	,
+        					"name": Av. J.-D.-Abram-Davel1,
+        					"infourl": null,
+        					"x": 538009,
+        					"y": 153127,
+        					"lon": 6.630687337140186,
+        					"lat": 46.52656415679699
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539648,
+                           153093
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151593
+		6.6520520445864655
+		46.52640854427081
+	,
+        					"name": Av. de Chailly5,
+        					"infourl": null,
+        					"x": 539648,
+        					"y": 153093,
+        					"lon": 6.6520520445864655,
+        					"lat": 46.52640854427081
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538696,
+                           151796
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17153490
+		6.639817523157097
+		46.51465497467695
+	,
+        					"name": Av. de Florimont22,
+        					"infourl": null,
+        					"x": 538696,
+        					"y": 151796,
+        					"lon": 6.639817523157097,
+        					"lat": 46.51465497467695
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537124,
+                           153213
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		15381837
+		6.619141920575862
+		46.52725519378262
+	,
+        					"name": Av. de France41B,
+        					"infourl": null,
+        					"x": 537124,
+        					"y": 153213,
+        					"lon": 6.619141920575862,
+        					"lat": 46.52725519378262
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539028,
+                           152684
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17367205
+		6.644026020814208
+		46.522673100289296
+	,
+        					"name": Av. de la Dôle13A,
+        					"infourl": null,
+        					"x": 539028,
+        					"y": 152684,
+        					"lon": 6.644026020814208,
+        					"lat": 46.522673100289296
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539110,
+                           152671
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152465
+		6.6450963274058585
+		46.522563659456715
+	,
+        					"name": Av. de la Dôle14,
+        					"infourl": null,
+        					"x": 539110,
+        					"y": 152671,
+        					"lon": 6.6450963274058585,
+        					"lat": 46.522563659456715
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539058,
+                           152751
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152476
+		6.644408109010914
+		46.52327851836851
+	,
+        					"name": Av. de la Dôle27,
+        					"infourl": null,
+        					"x": 539058,
+        					"y": 152751,
+        					"lon": 6.644408109010914,
+        					"lat": 46.52327851836851
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537003,
+                           152966
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154938
+		6.617598760687579
+		46.525021982333534
+	,
+        					"name": Av. de Morges33B,
+        					"infourl": null,
+        					"x": 537003,
+        					"y": 152966,
+        					"lon": 6.617598760687579,
+        					"lat": 46.525021982333534
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537492,
+                           152504
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157434
+		6.624034015366774
+		46.52091202759568
+	,
+        					"name": Av. de Savoie2,
+        					"infourl": null,
+        					"x": 537492,
+        					"y": 152504,
+        					"lon": 6.624034015366774,
+        					"lat": 46.52091202759568
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536623,
+                           152898
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17457083
+		6.612655927474268
+		46.52437442741538
+	,
+        					"name": Av. de Sévelin13D,
+        					"infourl": null,
+        					"x": 536623,
+        					"y": 152898,
+        					"lon": 6.612655927474268,
+        					"lat": 46.52437442741538
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537164,
+                           152662
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157522
+		6.619738316337182
+		46.52230256385897
+	,
+        					"name": Av. de Sévelin36,
+        					"infourl": null,
+        					"x": 537164,
+        					"y": 152662,
+        					"lon": 6.619738316337182,
+        					"lat": 46.52230256385897
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538927,
+                           152270
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156135
+		6.6427646492117365
+		46.51893984661257
+	,
+        					"name": Parc Mon-Repos1,
+        					"infourl": null,
+        					"x": 538927,
+        					"y": 152270,
+        					"lon": 6.6427646492117365,
+        					"lat": 46.51893984661257
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537134,
+                           153034
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152055
+		6.619296675652382
+		46.52564597923152
+	,
+        					"name": Ch. des Clochetons11,
+        					"infourl": null,
+        					"x": 537134,
+        					"y": 153034,
+        					"lon": 6.619296675652382,
+        					"lat": 46.52564597923152
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536539,
+                           152307
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17155665
+		6.611642483475079
+		46.519050255005965
+	,
+        					"name": Av. de Montoie19,
+        					"infourl": null,
+        					"x": 536539,
+        					"y": 152307,
+        					"lon": 6.611642483475079,
+        					"lat": 46.519050255005965
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539626,
+                           153068
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151594
+		6.651768605144138
+		46.52618167298326
+	,
+        					"name": Av. de Chailly6,
+        					"infourl": null,
+        					"x": 539626,
+        					"y": 153068,
+        					"lon": 6.651768605144138,
+        					"lat": 46.52618167298326
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537558,
+                           152846
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150300
+		6.624847804833586
+		46.52399456066239
+	,
+        					"name": Av. de Beaulieu1,
+        					"infourl": null,
+        					"x": 537558,
+        					"y": 152846,
+        					"lon": 6.624847804833586,
+        					"lat": 46.52399456066239
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           535592,
+                           152273
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151365
+		6.5993073641135025
+		46.51865382678128
+	,
+        					"name": Ch. du Bois-de-Vaux25,
+        					"infourl": null,
+        					"x": 535592,
+        					"y": 152273,
+        					"lon": 6.5993073641135025,
+        					"lat": 46.51865382678128
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536769,
+                           154160
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150648
+		6.614385650344521
+		46.535740117184915
+	,
+        					"name": Ch. du Boisy41,
+        					"infourl": null,
+        					"x": 536769,
+        					"y": 154160,
+        					"lon": 6.614385650344521,
+        					"lat": 46.535740117184915
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538095,
+                           153595
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150739
+		6.631745238434754
+		46.53078190055245
+	,
+        					"name": Rue de la Borde28B,
+        					"infourl": null,
+        					"x": 538095,
+        					"y": 153595,
+        					"lon": 6.631745238434754,
+        					"lat": 46.53078190055245
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538020,
+                           153638
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150764
+		6.630761944794341
+		46.531161751921665
+	,
+        					"name": Rue de la Borde49B,
+        					"infourl": null,
+        					"x": 538020,
+        					"y": 153638,
+        					"lon": 6.630761944794341,
+        					"lat": 46.531161751921665
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538571,
+                           152808
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151510
+		6.638054086951317
+		46.52374656796421
+	,
+        					"name": Rue Dr César-Roux16,
+        					"infourl": null,
+        					"x": 538571,
+        					"y": 152808,
+        					"lon": 6.638054086951317,
+        					"lat": 46.52374656796421
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536769,
+                           154160
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150648
+		6.614385650344521
+		46.535740117184915
+	,
+        					"name": Ch. du Boisy41,
+        					"infourl": null,
+        					"x": 536769,
+        					"y": 154160,
+        					"lon": 6.614385650344521,
+        					"lat": 46.535740117184915
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536371,
+                           153558
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17159626
+		6.6092808508882825
+		46.53028735883824
+	,
+        					"name": Ch. de Champrilly21A,
+        					"infourl": null,
+        					"x": 536371,
+        					"y": 153558,
+        					"lon": 6.6092808508882825,
+        					"lat": 46.53028735883824
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538898,
+                           151516
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151752
+		6.642486540160961
+		46.51215477893462
+	,
+        					"name": Ch. Antoine-de-Chandieu32,
+        					"infourl": null,
+        					"x": 538898,
+        					"y": 151516,
+        					"lon": 6.642486540160961,
+        					"lat": 46.51215477893462
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539441,
+                           154073
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151773
+		6.64922544290339
+		46.535205113248225
+	,
+        					"name": Ch. de Chantemerle6,
+        					"infourl": null,
+        					"x": 539441,
+        					"y": 154073,
+        					"lon": 6.64922544290339,
+        					"lat": 46.535205113248225
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539466,
+                           154071
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151775
+		6.649551570348446
+		46.53518939501841
+	,
+        					"name": Ch. de Chantemerle8,
+        					"infourl": null,
+        					"x": 539466,
+        					"y": 154071,
+        					"lon": 6.649551570348446,
+        					"lat": 46.53518939501841
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538044,
+                           154299
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152696
+		6.630985897331138
+		46.53710983098525
+	,
+        					"name": Ch. d'Entre-Bois13B,
+        					"infourl": null,
+        					"x": 538044,
+        					"y": 154299,
+        					"lon": 6.630985897331138,
+        					"lat": 46.53710983098525
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539474,
+                           154221
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152592
+		6.649636111663313
+		46.53653940243654
+	,
+        					"name": Ch. de la Chaumière3,
+        					"infourl": null,
+        					"x": 539474,
+        					"y": 154221,
+        					"lon": 6.649636111663313,
+        					"lat": 46.53653940243654
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539502,
+                           154226
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152594
+		6.650000427751062
+		46.53658691273667
+	,
+        					"name": Ch. de la Chaumière5,
+        					"infourl": null,
+        					"x": 539502,
+        					"y": 154226,
+        					"lon": 6.650000427751062,
+        					"lat": 46.53658691273667
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           535711,
+                           152765
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151350
+		6.600789311013242
+		46.523090994435584
+	,
+        					"name": Ch. du Bois-de-Vaux1,
+        					"infourl": null,
+        					"x": 535711,
+        					"y": 152765,
+        					"lon": 6.600789311013242,
+        					"lat": 46.523090994435584
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536456,
+                           152494
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152207
+		6.610535203967327
+		46.52072448272925
+	,
+        					"name": Ch. des Cottages4,
+        					"infourl": null,
+        					"x": 536456,
+        					"y": 152494,
+        					"lon": 6.610535203967327,
+        					"lat": 46.52072448272925
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537182,
+                           152992
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152049
+		6.619927947511389
+		46.52527268486608
+	,
+        					"name": Ch. des Clochetons5,
+        					"infourl": null,
+        					"x": 537182,
+        					"y": 152992,
+        					"lon": 6.619927947511389,
+        					"lat": 46.52527268486608
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537012,
+                           153085
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152072
+		6.617699777136246
+		46.52609326684829
+	,
+        					"name": Ch. des Clochetons35,
+        					"infourl": null,
+        					"x": 537012,
+        					"y": 153085,
+        					"lon": 6.617699777136246,
+        					"lat": 46.52609326684829
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536474,
+                           152510
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152205
+		6.610767561227755
+		46.52087011817212
+	,
+        					"name": Ch. des Cottages2,
+        					"infourl": null,
+        					"x": 536474,
+        					"y": 152510,
+        					"lon": 6.610767561227755,
+        					"lat": 46.52087011817212
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536410,
+                           152452
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152218
+		6.609941560794571
+		46.52034230636482
+	,
+        					"name": Ch. des Cottages26,
+        					"infourl": null,
+        					"x": 536410,
+        					"y": 152452,
+        					"lon": 6.609941560794571,
+        					"lat": 46.52034230636482
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537121,
+                           153010
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152061
+		6.6191305334248876
+		46.52542887136723
+	,
+        					"name": Ch. des Clochetons17,
+        					"infourl": null,
+        					"x": 537121,
+        					"y": 153010,
+        					"lon": 6.6191305334248876,
+        					"lat": 46.52542887136723
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536986,
+                           153133
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152062
+		6.617354371636278
+		46.52652259229011
+	,
+        					"name": Ch. des Clochetons18,
+        					"infourl": null,
+        					"x": 536986,
+        					"y": 153133,
+        					"lon": 6.617354371636278,
+        					"lat": 46.52652259229011
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538845,
+                           151873
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156054
+		6.641748735077473
+		46.515361229760494
+	,
+        					"name": Ch. Messidor3,
+        					"infourl": null,
+        					"x": 538845,
+        					"y": 151873,
+        					"lon": 6.641748735077473,
+        					"lat": 46.515361229760494
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538170,
+                           151743
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152089
+		6.632971031105376
+		46.514129960679256
+	,
+        					"name": Ch. du Closelet12,
+        					"infourl": null,
+        					"x": 538170,
+        					"y": 151743,
+        					"lon": 6.632971031105376,
+        					"lat": 46.514129960679256
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536606,
+                           152385
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17155667
+		6.612504827037525
+		46.519758244355494
+	,
+        					"name": Av. de Montoie20B,
+        					"infourl": null,
+        					"x": 536606,
+        					"y": 152385,
+        					"lon": 6.612504827037525,
+        					"lat": 46.519758244355494
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           535156,
+                           152959
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151538
+		6.593529544871794
+		46.524782510366435
+	,
+        					"name": Av. du Chablais46,
+        					"infourl": null,
+        					"x": 535156,
+        					"y": 152959,
+        					"lon": 6.593529544871794,
+        					"lat": 46.524782510366435
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536390,
+                           153709
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17159607
+		6.609507676498425
+		46.53164741760351
+	,
+        					"name": Ch. de Champrilly2,
+        					"infourl": null,
+        					"x": 536390,
+        					"y": 153709,
+        					"lon": 6.609507676498425,
+        					"lat": 46.53164741760351
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536389,
+                           153725
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17159609
+		6.6094924311149335
+		46.53179124425589
+	,
+        					"name": Ch. de Champrilly4,
+        					"infourl": null,
+        					"x": 536389,
+        					"y": 153725,
+        					"lon": 6.6094924311149335,
+        					"lat": 46.53179124425589
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537568,
+                           154997
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157124
+		6.6246867977566435
+		46.54334439269701
+	,
+        					"name": Ch. du Petit-Flon52,
+        					"infourl": null,
+        					"x": 537568,
+        					"y": 154997,
+        					"lon": 6.6246867977566435,
+        					"lat": 46.54334439269701
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537579,
+                           155028
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157126
+		6.624825995151672
+		46.543624274507785
+	,
+        					"name": Ch. du Petit-Flon54,
+        					"infourl": null,
+        					"x": 537579,
+        					"y": 155028,
+        					"lon": 6.624825995151672,
+        					"lat": 46.543624274507785
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539376,
+                           151712
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151959
+		6.648688635567304
+		46.51396146143322
+	,
+        					"name": Ch. de Chissiez4,
+        					"infourl": null,
+        					"x": 539376,
+        					"y": 151712,
+        					"lon": 6.648688635567304,
+        					"lat": 46.51396146143322
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537721,
+                           152510
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152185
+		6.627017326365848
+		46.520987353952144
+	,
+        					"name": Rue Côtes-de-Montbenon7,
+        					"infourl": null,
+        					"x": 537721,
+        					"y": 152510,
+        					"lon": 6.627017326365848,
+        					"lat": 46.520987353952144
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538116,
+                           154625
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152723
+		6.631880665194252
+		46.540049042581664
+	,
+        					"name": Ch. d'Entre-Bois42,
+        					"infourl": null,
+        					"x": 538116,
+        					"y": 154625,
+        					"lon": 6.631880665194252,
+        					"lat": 46.540049042581664
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538123,
+                           154678
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152728
+		6.631964803015465
+		46.54052645348921
+	,
+        					"name": Ch. d'Entre-Bois50,
+        					"infourl": null,
+        					"x": 538123,
+        					"y": 154678,
+        					"lon": 6.631964803015465,
+        					"lat": 46.54052645348921
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538059,
+                           154585
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152730
+		6.631143009439992
+		46.53968394105197
+	,
+        					"name": Ch. d'Entre-Bois53,
+        					"infourl": null,
+        					"x": 538059,
+        					"y": 154585,
+        					"lon": 6.631143009439992,
+        					"lat": 46.53968394105197
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538029,
+                           154576
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152731
+		6.630753153996412
+		46.539600200143155
+	,
+        					"name": Ch. d'Entre-Bois55,
+        					"infourl": null,
+        					"x": 538029,
+        					"y": 154576,
+        					"lon": 6.630753153996412,
+        					"lat": 46.539600200143155
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           540420,
+                           154228
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17159143
+		6.661966014550728
+		46.536687301867794
+	,
+        					"name": Ch. des Eterpeys10,
+        					"infourl": null,
+        					"x": 540420,
+        					"y": 154228,
+        					"lon": 6.661966014550728,
+        					"lat": 46.536687301867794
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           540414,
+                           154204
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17159145
+		6.661890899618827
+		46.536470876227014
+	,
+        					"name": Ch. des Eterpeys12,
+        					"infourl": null,
+        					"x": 540414,
+        					"y": 154204,
+        					"lon": 6.661890899618827,
+        					"lat": 46.536470876227014
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536148,
+                           152091
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17153375
+		6.606577652300979
+		46.51707002259527
+	,
+        					"name": Av. des Figuiers28,
+        					"infourl": null,
+        					"x": 536148,
+        					"y": 152091,
+        					"lon": 6.606577652300979,
+        					"lat": 46.51707002259527
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537118,
+                           152853
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154436
+		6.619112853908277
+		46.52401633352919
+	,
+        					"name": Rue de Genève52,
+        					"infourl": null,
+        					"x": 537118,
+        					"y": 152853,
+        					"lon": 6.619112853908277,
+        					"lat": 46.52401633352919
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536734,
+                           152936
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17153737
+		6.614097260966982
+		46.52472675030531
+	,
+        					"name": Rue de Genève77B,
+        					"infourl": null,
+        					"x": 536734,
+        					"y": 152936,
+        					"lon": 6.614097260966982,
+        					"lat": 46.52472675030531
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           535984,
+                           153208
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17153945
+		6.604285457493871
+		46.52710214178376
+	,
+        					"name": Rue du Grand-Pré3,
+        					"infourl": null,
+        					"x": 535984,
+        					"y": 153208,
+        					"lon": 6.604285457493871,
+        					"lat": 46.52710214178376
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536016,
+                           153180
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17153947
+		6.604706387798622
+		46.52685333229913
+	,
+        					"name": Rue du Grand-Pré5,
+        					"infourl": null,
+        					"x": 536016,
+        					"y": 153180,
+        					"lon": 6.604706387798622,
+        					"lat": 46.52685333229913
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537594,
+                           151649
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		15381644
+		6.625478760855381
+		46.51323081711609
+	,
+        					"name": Av. F.-César-de-La-Harpe2,
+        					"infourl": null,
+        					"x": 537594,
+        					"y": 151649,
+        					"lon": 6.625478760855381,
+        					"lat": 46.51323081711609
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538845,
+                           151873
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156054
+		6.641748735077473
+		46.515361229760494
+	,
+        					"name": Ch. Messidor3,
+        					"infourl": null,
+        					"x": 538845,
+        					"y": 151873,
+        					"lon": 6.641748735077473,
+        					"lat": 46.515361229760494
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537661,
+                           152533
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152189
+		6.626232353615473
+		46.521188650463905
+	,
+        					"name": Rue Côtes-de-Montbenon11,
+        					"infourl": null,
+        					"x": 537661,
+        					"y": 152533,
+        					"lon": 6.626232353615473,
+        					"lat": 46.521188650463905
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537638,
+                           152541
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152191
+		6.6259315563882994
+		46.521258469942055
+	,
+        					"name": Rue Côtes-de-Montbenon13,
+        					"infourl": null,
+        					"x": 537638,
+        					"y": 152541,
+        					"lon": 6.6259315563882994,
+        					"lat": 46.521258469942055
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537640,
+                           151004
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156576
+		6.62616517144003
+		46.50743301582238
+	,
+        					"name": Pl. de la Navigation10,
+        					"infourl": null,
+        					"x": 537640,
+        					"y": 151004,
+        					"lon": 6.62616517144003,
+        					"lat": 46.50743301582238
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538927,
+                           152270
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156135
+		6.6427646492117365
+		46.51893984661257
+	,
+        					"name": Parc Mon-Repos1,
+        					"infourl": null,
+        					"x": 538927,
+        					"y": 152270,
+        					"lon": 6.6427646492117365,
+        					"lat": 46.51893984661257
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539902,
+                           153271
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152767
+		6.6553390833912385
+		46.528032634148744
+	,
+        					"name": Av. de l'Esplanade4,
+        					"infourl": null,
+        					"x": 539902,
+        					"y": 153271,
+        					"lon": 6.6553390833912385,
+        					"lat": 46.528032634148744
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539902,
+                           153271
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152767
+		6.6553390833912385
+		46.528032634148744
+	,
+        					"name": Av. de l'Esplanade4,
+        					"infourl": null,
+        					"x": 539902,
+        					"y": 153271,
+        					"lon": 6.6553390833912385,
+        					"lat": 46.528032634148744
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539904,
+                           153232
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152770
+		6.655370235344864
+		46.52768200357994
+	,
+        					"name": Av. de l'Esplanade6,
+        					"infourl": null,
+        					"x": 539904,
+        					"y": 153232,
+        					"lon": 6.655370235344864,
+        					"lat": 46.52768200357994
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538332,
+                           152642
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151025
+		6.634961717038074
+		46.522231351061194
+	,
+        					"name": Pl. de la Cathédrale4,
+        					"infourl": null,
+        					"x": 538332,
+        					"y": 152642,
+        					"lon": 6.634961717038074,
+        					"lat": 46.522231351061194
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538361,
+                           152631
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151028
+		6.6353410974777
+		46.522135081979854
+	,
+        					"name": Pl. de la Cathédrale6,
+        					"infourl": null,
+        					"x": 538361,
+        					"y": 152631,
+        					"lon": 6.6353410974777,
+        					"lat": 46.522135081979854
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537831,
+                           152146
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154393
+		6.62849977211217
+		46.517723451953565
+	,
+        					"name": Pl. de la Gare10,
+        					"infourl": null,
+        					"x": 537831,
+        					"y": 152146,
+        					"lon": 6.62849977211217,
+        					"lat": 46.517723451953565
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538459,
+                           152927
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		15381655
+		6.636578643324439
+		46.52480667553369
+	,
+        					"name": Ch. de Couvaloup6,
+        					"infourl": null,
+        					"x": 538459,
+        					"y": 152927,
+        					"lon": 6.636578643324439,
+        					"lat": 46.52480667553369
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537637,
+                           152621
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156368
+		6.625907718401296
+		46.5219779961743
+	,
+        					"name": Rue du Port-Franc18,
+        					"infourl": null,
+        					"x": 537637,
+        					"y": 152621,
+        					"lon": 6.625907718401296,
+        					"lat": 46.5219779961743
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537637,
+                           152621
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156368
+		6.625907718401296
+		46.5219779961743
+	,
+        					"name": Rue du Port-Franc18,
+        					"infourl": null,
+        					"x": 537637,
+        					"y": 152621,
+        					"lon": 6.625907718401296,
+        					"lat": 46.5219779961743
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537637,
+                           152621
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156368
+		6.625907718401296
+		46.5219779961743
+	,
+        					"name": Rue du Port-Franc18,
+        					"infourl": null,
+        					"x": 537637,
+        					"y": 152621,
+        					"lon": 6.625907718401296,
+        					"lat": 46.5219779961743
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           535934,
+                           152828
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156384
+		6.603686618500461
+		46.52367910126174
+	,
+        					"name": Ch. de la Prairie36,
+        					"infourl": null,
+        					"x": 535934,
+        					"y": 152828,
+        					"lon": 6.603686618500461,
+        					"lat": 46.52367910126174
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           540585,
+                           154355
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156409
+		6.664100420493105
+		46.537844402841436
+	,
+        					"name": Ch. de Praz-Séchaud1,
+        					"infourl": null,
+        					"x": 540585,
+        					"y": 154355,
+        					"lon": 6.664100420493105,
+        					"lat": 46.537844402841436
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           540630,
+                           154392
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156420
+		6.664682243489955
+		46.53818123087882
+	,
+        					"name": Ch. de Praz-Séchaud12,
+        					"infourl": null,
+        					"x": 540630,
+        					"y": 154392,
+        					"lon": 6.664682243489955,
+        					"lat": 46.53818123087882
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536925,
+                           151490
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157813
+		6.616783920069845
+		46.511737639858666
+	,
+        					"name": Av. de Rhodanie23,
+        					"infourl": null,
+        					"x": 536925,
+        					"y": 151490,
+        					"lon": 6.616783920069845,
+        					"lat": 46.511737639858666
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538220,
+                           152915
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157885
+		6.63346561020521
+		46.52467666706017
+	,
+        					"name": Pl. de la Riponne10,
+        					"infourl": null,
+        					"x": 538220,
+        					"y": 152915,
+        					"lon": 6.63346561020521,
+        					"lat": 46.52467666706017
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539269,
+                           153938
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151171
+		6.647001307962485
+		46.533975088389504
+	,
+        					"name": Rte de Berne7,
+        					"infourl": null,
+        					"x": 539269,
+        					"y": 153938,
+        					"lon": 6.647001307962485,
+        					"lat": 46.533975088389504
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538601,
+                           153820
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157571
+		6.638310182338519
+		46.532852464585936
+	,
+        					"name": Rte du Signal25,
+        					"infourl": null,
+        					"x": 538601,
+        					"y": 153820,
+        					"lon": 6.638310182338519,
+        					"lat": 46.532852464585936
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538630,
+                           153834
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157573
+		6.63868630092915
+		46.532981068942874
+	,
+        					"name": Rte du Signal27,
+        					"infourl": null,
+        					"x": 538630,
+        					"y": 153834,
+        					"lon": 6.63868630092915,
+        					"lat": 46.532981068942874
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538642,
+                           153833
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157574
+		6.638842841712348
+		46.532973177094824
+	,
+        					"name": Rte du Signal27B,
+        					"infourl": null,
+        					"x": 538642,
+        					"y": 153833,
+        					"lon": 6.638842841712348,
+        					"lat": 46.532973177094824
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538014,
+                           153867
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150531
+		6.630652932971127
+		46.53322109081486
+	,
+        					"name": Rte Aloys-Fauquez1,
+        					"infourl": null,
+        					"x": 538014,
+        					"y": 153867,
+        					"lon": 6.630652932971127,
+        					"lat": 46.53322109081486
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538078,
+                           153800
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150544
+		6.6314961171202285
+		46.53262433862672
+	,
+        					"name": Rte Aloys-Fauquez12,
+        					"infourl": null,
+        					"x": 538078,
+        					"y": 153800,
+        					"lon": 6.6314961171202285,
+        					"lat": 46.53262433862672
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538218,
+                           153889
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17149958
+		6.633308928028597
+		46.5334378474244
+	,
+        					"name": Rte Aloys-Fauquez29,
+        					"infourl": null,
+        					"x": 538218,
+        					"y": 153889,
+        					"lon": 6.633308928028597,
+        					"lat": 46.5334378474244
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538092,
+                           153893
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17149972
+		6.631666094460546
+		46.533462184899626
+	,
+        					"name": Rte Aloys-Fauquez45,
+        					"infourl": null,
+        					"x": 538092,
+        					"y": 153893,
+        					"lon": 6.631666094460546,
+        					"lat": 46.533462184899626
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538212,
+                           153930
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17149974
+		6.633225224441288
+		46.533806095701756
+	,
+        					"name": Rte Aloys-Fauquez47,
+        					"infourl": null,
+        					"x": 538212,
+        					"y": 153930,
+        					"lon": 6.633225224441288,
+        					"lat": 46.533806095701756
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538054,
+                           153815
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150539
+		6.631181286653682
+		46.532757045305644
+	,
+        					"name": Rte Aloys-Fauquez8,
+        					"infourl": null,
+        					"x": 538054,
+        					"y": 153815,
+        					"lon": 6.631181286653682,
+        					"lat": 46.532757045305644
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537475,
+                           152750
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154421
+		6.6237791691469985
+		46.523123268825216
+	,
+        					"name": Rue de Genève34,
+        					"infourl": null,
+        					"x": 537475,
+        					"y": 152750,
+        					"lon": 6.6237791691469985,
+        					"lat": 46.523123268825216
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537475,
+                           152750
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154421
+		6.6237791691469985
+		46.523123268825216
+	,
+        					"name": Rue de Genève34,
+        					"infourl": null,
+        					"x": 537475,
+        					"y": 152750,
+        					"lon": 6.6237791691469985,
+        					"lat": 46.523123268825216
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537396,
+                           152767
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154423
+		6.622747366028989
+		46.52326880343756
+	,
+        					"name": Rue de Genève36,
+        					"infourl": null,
+        					"x": 537396,
+        					"y": 152767,
+        					"lon": 6.622747366028989,
+        					"lat": 46.52326880343756
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537118,
+                           152853
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154436
+		6.619112853908277
+		46.52401633352919
+	,
+        					"name": Rue de Genève52,
+        					"infourl": null,
+        					"x": 537118,
+        					"y": 152853,
+        					"lon": 6.619112853908277,
+        					"lat": 46.52401633352919
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537118,
+                           152853
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154436
+		6.619112853908277
+		46.52401633352919
+	,
+        					"name": Rue de Genève52,
+        					"infourl": null,
+        					"x": 537118,
+        					"y": 152853,
+        					"lon": 6.619112853908277,
+        					"lat": 46.52401633352919
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536456,
+                           152494
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17152207
+		6.610535203967327
+		46.52072448272925
+	,
+        					"name": Ch. des Cottages4,
+        					"infourl": null,
+        					"x": 536456,
+        					"y": 152494,
+        					"lon": 6.610535203967327,
+        					"lat": 46.52072448272925
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           540921,
+                           154077
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150897
+		6.668515948865782
+		46.53537353782959
+	,
+        					"name": Av. des Boveresses54,
+        					"infourl": null,
+        					"x": 540921,
+        					"y": 154077,
+        					"lon": 6.668515948865782,
+        					"lat": 46.53537353782959
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539402,
+                           153935
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17155752
+		6.648735262017678
+		46.53396021472477
+	,
+        					"name": Rte d'Oron10,
+        					"infourl": null,
+        					"x": 539402,
+        					"y": 153935,
+        					"lon": 6.648735262017678,
+        					"lat": 46.53396021472477
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539438,
+                           153993
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17155756
+		6.649196864950658
+		46.53448521626411
+	,
+        					"name": Rte d'Oron14A,
+        					"infourl": null,
+        					"x": 539438,
+        					"y": 153993,
+        					"lon": 6.649196864950658,
+        					"lat": 46.53448521626411
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           542692,
+                           155898
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17158380
+		6.691374168137783
+		46.55190826774873
+	,
+        					"name": Rte du Jorat59,
+        					"infourl": null,
+        					"x": 542692,
+        					"y": 155898,
+        					"lon": 6.691374168137783,
+        					"lat": 46.55190826774873
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538366,
+                           153906
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157009
+		6.635235700683194
+		46.533604411282
+	,
+        					"name": Rte du Pavement41,
+        					"infourl": null,
+        					"x": 538366,
+        					"y": 153906,
+        					"lon": 6.635235700683194,
+        					"lat": 46.533604411282
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538327,
+                           153971
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17157023
+		6.634718666956327
+		46.534185508528125
+	,
+        					"name": Rte du Pavement63,
+        					"infourl": null,
+        					"x": 538327,
+        					"y": 153971,
+        					"lon": 6.634718666956327,
+        					"lat": 46.534185508528125
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537623,
+                           152718
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154415
+		6.625712172978939
+		46.522849230108584
+	,
+        					"name": Rue de Genève28,
+        					"infourl": null,
+        					"x": 537623,
+        					"y": 152718,
+        					"lon": 6.625712172978939,
+        					"lat": 46.522849230108584
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537581,
+                           152715
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154417
+		6.625165253343174
+		46.522818328958586
+	,
+        					"name": Rue de Genève30,
+        					"infourl": null,
+        					"x": 537581,
+        					"y": 152715,
+        					"lon": 6.625165253343174,
+        					"lat": 46.522818328958586
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539402,
+                           153935
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17155752
+		6.648735262017678
+		46.53396021472477
+	,
+        					"name": Rte d'Oron10,
+        					"infourl": null,
+        					"x": 539402,
+        					"y": 153935,
+        					"lon": 6.648735262017678,
+        					"lat": 46.53396021472477
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537805,
+                           153941
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		15381534
+		6.627918838860438
+		46.533867341452314
+	,
+        					"name": Rte des Plaines-du-Loup6,
+        					"infourl": null,
+        					"x": 537805,
+        					"y": 153941,
+        					"lon": 6.627918838860438,
+        					"lat": 46.533867341452314
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           536589,
+                           153582
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156488
+		6.612118791259436
+		46.530523940925626
+	,
+        					"name": Rte de Prilly1,
+        					"infourl": null,
+        					"x": 536589,
+        					"y": 153582,
+        					"lon": 6.612118791259436,
+        					"lat": 46.530523940925626
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538367,
+                           152485
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151490
+		6.635438793985006
+		46.5208223638248
+	,
+        					"name": Rue Centrale30,
+        					"infourl": null,
+        					"x": 538367,
+        					"y": 152485,
+        					"lon": 6.635438793985006,
+        					"lat": 46.5208223638248
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538374,
+                           152757
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151803
+		6.635493657249102
+		46.52326966677148
+	,
+        					"name": Rue Charles-Vuillermet3,
+        					"infourl": null,
+        					"x": 538374,
+        					"y": 152757,
+        					"lon": 6.635493657249102,
+        					"lat": 46.52326966677148
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538380,
+                           152755
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151804
+		6.635572114291785
+		46.52325223018005
+	,
+        					"name": Rue Charles-Vuillermet5,
+        					"infourl": null,
+        					"x": 538380,
+        					"y": 152755,
+        					"lon": 6.635572114291785,
+        					"lat": 46.52325223018005
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538427,
+                           152477
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151944
+		6.636221730969657
+		46.520755929630475
+	,
+        					"name": Rue Cheneau-de-Bourg2,
+        					"infourl": null,
+        					"x": 538427,
+        					"y": 152477,
+        					"lon": 6.636221730969657,
+        					"lat": 46.520755929630475
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538429,
+                           152441
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17151950
+		6.63625259490576
+		46.520432297127535
+	,
+        					"name": Rue Cheneau-de-Bourg8,
+        					"infourl": null,
+        					"x": 538429,
+        					"y": 152441,
+        					"lon": 6.63625259490576,
+        					"lat": 46.520432297127535
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537485,
+                           152745
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154419
+		6.623910162435834
+		46.523079226700894
+	,
+        					"name": Rue de Genève32B,
+        					"infourl": null,
+        					"x": 537485,
+        					"y": 152745,
+        					"lon": 6.623910162435834,
+        					"lat": 46.523079226700894
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537475,
+                           152750
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154421
+		6.6237791691469985
+		46.523123268825216
+	,
+        					"name": Rue de Genève34,
+        					"infourl": null,
+        					"x": 537475,
+        					"y": 152750,
+        					"lon": 6.6237791691469985,
+        					"lat": 46.523123268825216
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537475,
+                           152750
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154421
+		6.6237791691469985
+		46.523123268825216
+	,
+        					"name": Rue de Genève34,
+        					"infourl": null,
+        					"x": 537475,
+        					"y": 152750,
+        					"lon": 6.6237791691469985,
+        					"lat": 46.523123268825216
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537475,
+                           152750
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154421
+		6.6237791691469985
+		46.523123268825216
+	,
+        					"name": Rue de Genève34,
+        					"infourl": null,
+        					"x": 537475,
+        					"y": 152750,
+        					"lon": 6.6237791691469985,
+        					"lat": 46.523123268825216
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537396,
+                           152767
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17154423
+		6.622747366028989
+		46.52326880343756
+	,
+        					"name": Rue de Genève36,
+        					"infourl": null,
+        					"x": 537396,
+        					"y": 152767,
+        					"lon": 6.622747366028989,
+        					"lat": 46.52326880343756
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538047,
+                           153603
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150759
+		6.6311185568747355
+		46.530849420617876
+	,
+        					"name": Rue de la Borde45,
+        					"infourl": null,
+        					"x": 538047,
+        					"y": 153603,
+        					"lon": 6.6311185568747355,
+        					"lat": 46.530849420617876
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538032,
+                           153623
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17150763
+		6.6309203648388015
+		46.53102793546627
+	,
+        					"name": Rue de la Borde49,
+        					"infourl": null,
+        					"x": 538032,
+        					"y": 153623,
+        					"lon": 6.6309203648388015,
+        					"lat": 46.53102793546627
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537951,
+                           153464
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17156317
+		6.629886066176309
+		46.52959018789787
+	,
+        					"name": Rue de la Pontaise17,
+        					"infourl": null,
+        					"x": 537951,
+        					"y": 153464,
+        					"lon": 6.629886066176309,
+        					"lat": 46.52959018789787
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           538512,
+                           153303
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		15381785
+		6.637219168359549
+		46.52819372274037
+	,
+        					"name": Rte du Signal2,
+        					"infourl": null,
+        					"x": 538512,
+        					"y": 153303,
+        					"lon": 6.637219168359549,
+        					"lat": 46.52819372274037
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           537692,
+                           152724
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17158789
+		6.626610540551079
+		46.52290962832661
+	,
+        					"name": Rue des Terreaux33,
+        					"infourl": null,
+        					"x": 537692,
+        					"y": 152724,
+        					"lon": 6.626610540551079,
+        					"lat": 46.52290962832661
+      					}
+                        
+                    }      
+                    ,
+             	{
+             		
+             		"type": "Feature",
+      				"geometry": {
+      					"type": "Point",
+        				 "coordinates": [
+                           539109,
+                           153888
+                          ] 
+                       },  
+                       "properties": {
+					        "idthing": 
+		17158066
+		6.644922438326582
+		46.53351071729125
+	,
+        					"name": Rue du Vallon35,
+        					"infourl": null,
+        					"x": 539109,
+        					"y": 153888,
+        					"lon": 6.644922438326582,
+        					"lat": 46.53351071729125
+      					}
+                        
+                    }      
+                    
+             ]}
+       

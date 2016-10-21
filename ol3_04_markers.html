@@ -97,17 +97,17 @@
         //var eglise_stfrancois = new ol.Feature(new ol.geom.Point(coord_pfa3_180_stfrancois));
         //eglise_stfrancois.setStyle(createIconStyleCenterBottom('images/marker_blue_32x58.png'));
 
-        var coord_poste_stfrancois = [538189, 152308]; //Poste - St-Francois
+        //var coord_poste_stfrancois = [538189, 152308]; //Poste - St-Francois
         //var poste_stfrancois = new ol.Feature(new ol.geom.Point(coord_poste_stfrancois));
         //poste_stfrancois.setStyle(createIconStyleCenterBottom('images/marker_red_32x58.png'));
 
 
-        marker_layer = new ol.layer.Vector({
-            source: new ol.source.Vector({
-                features: [eglise_stfrancois, poste_stfrancois]
-            })
-        });
-        map.addLayer(marker_layer);  // doc --> http://openlayers.org/en/latest/apidoc/ol.Map.html#addLayer
+//        marker_layer = new ol.layer.Vector({
+//            source: new ol.source.Vector({
+ //               features: [eglise_stfrancois, poste_stfrancois]
+ //           })
+  //      });
+   //     map.addLayer(marker_layer);  // doc --> http://openlayers.org/en/latest/apidoc/ol.Map.html#addLayer
         var current_view = map.getView();
         // how to center map on a specific point
         current_view.setCenter(coord_pfa3_180_stfrancois); // http://openlayers.org/en/latest/apidoc/ol.View.html#setCenter

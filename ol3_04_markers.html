@@ -110,8 +110,8 @@
    //     map.addLayer(marker_layer);  // doc --> http://openlayers.org/en/latest/apidoc/ol.Map.html#addLayer
         var current_view = map.getView();
         // how to center map on a specific point
-        current_view.setCenter(coord_pfa3_180_stfrancois); // http://openlayers.org/en/latest/apidoc/ol.View.html#setCenter
-        current_view.setZoom(12);
+        //current_view.setCenter(coord_pfa3_180_stfrancois); // http://openlayers.org/en/latest/apidoc/ol.View.html#setCenter
+        current_view.setZoom(10);
         // how to center map on the extent of all features in the layer
         var extent = marker_layer.getSource().getExtent();
         current_view.fit(extent, map.getSize());
